@@ -1,41 +1,81 @@
 # 基于springboot的健身房管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**健身房** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于springboot的健身房管理系统1拥有两种角色：
 
 管理员：快速查询、会员管理、员工管理、器材管理、课程管理、报名管理
 
 用户：个人信息、课程查看和报名
 
-#### 软件架构
-软件架构说明
+![项目结构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142154718.png)
 
 
-#### 安装教程
+## 2、项目技术
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+后端框架：springboot、MyBatis
 
-#### 使用说明
+模板引擎：Thymeleaf
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+前端框架：Bootstrap、html、css、JavaScript、JQuery
 
-#### 参与贡献
+## 3、开发环境
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven版本：无限制
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 特技
+## 4、功能介绍
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 4.1 登录
+
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142154958.jpg)
+
+### 4.2 管理员模块
+
+![管理员-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155256.jpg)
+
+![管理员-会员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155280.jpg)
+
+![管理员-编辑会员](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142154423.jpg)
+
+![管理员-会员卡查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155676.jpg)
+
+![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155478.jpg)
+
+![管理员-课程报名信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155838.jpg)
+
+![管理员-器材管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155155.jpg)
+
+![管理员-员工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155175.jpg)
+
+### 4.3 会员用户模块
+
+![会员-个人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155709.jpg)
+
+![会员-报名选课](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155382.jpg)
+
+![会员-我的课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155744.jpg)
+
+### 4.4 数据库设计
+
+![数据库设计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142156906.png)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**健身房** ，获取完整版源码
+
+
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
