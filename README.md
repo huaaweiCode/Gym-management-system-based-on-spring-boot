@@ -1,10 +1,5 @@
 # 基于springboot的健身房管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**健身房** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -70,12 +65,4 @@
 ### 4.4 数据库设计
 
 ![数据库设计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142156906.png)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**健身房** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
