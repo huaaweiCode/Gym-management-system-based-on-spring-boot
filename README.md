@@ -66,3 +66,8 @@
 
 ![数据库设计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142156906.png)
 
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：健身房
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
